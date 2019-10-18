@@ -1,5 +1,5 @@
 # Laboratorio di informatica (3/12)
-### Prof. Stefano Carrazza - Corso C - 2018/19
+### Prof. Stefano Carrazza - Corso C - 2019/20
 
 **Riassunto:** Esercizi di base in C++: strings, cin, cout, file IO, if e else.
 
