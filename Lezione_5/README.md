@@ -62,7 +62,7 @@ introdotti dall'utente utilizzando un ciclo `for` oppure `while`.
 
 1. Scaricare il file con dati copiando e incollando il commando seguente su terminale:
 ```bash
-wget https://raw.githubusercontent.com/scarrazza/informatica2018/master/Lezione5/data.dat
+wget https://raw.githubusercontent.com/scarrazza/informatica2019/master/Lezione_5/data.dat
 ```
 I dati contengono 1000 numeri corrispondenti a misure fatte in laboratorio della costante di accelerazione di gravità `g`.
 
